@@ -1,0 +1,163 @@
+jaea: atm/redox condition	Gas1	Gas1_val	Gas1_SD	Gas1_units	Gas2	Gas2_val	Gas2_SD	Gas2_units	Gas3	Gas3_val	Gas3_SD	Gas3_units
+<1ppm CO2	N2(g)	1	NA	bar	CO2(g)	1.00E-06	NA	bar				
+0.05M-hydrazine	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+1.95% CO2	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.0195	NA	bar
+96%Ar4%H2+Na2S2O4	Ar(g)	0.96	NA	bar								
+99% Ar, 1% CO2	Ar(g)	0.99	NA	bar	CO2(g)	0.01	NA	bar				
+Aerobic	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+aerobic	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+aerobic condition	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+aerobic condition(const. O2)	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+air	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+Air	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+air and CO2	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+air(pCO2=10^-3.5 atm)	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+Air(pCO2=10^-3.58[atm]	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000263027	NA	bar
+Air(pCO2=10^-3.5atm)	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+Air(PCO2=10-3.58)	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000263027	NA	bar
+Air(PCO2=10-3.58[atm])	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000263027	NA	bar
+air(pCO2=1e-3.5)	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+Air?	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+air?	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+ambient	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+Ambient	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+ambient condition	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+Anaerobic	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+anaerobic	N2(g)	1	NA	bar	CO2(g)	0.000316228	NA	bar				
+anaerobic condition	N2(g)	1	NA	bar	CO2(g)	0.000316228	NA	bar				
+anarobic	N2(g)	1	NA	bar	CO2(g)	0.000316228	NA	bar				
+anoxic	N2(g)	1	NA	bar	CO2(g)	0.000316228	NA	bar				
+anoxic condition	N2(g)	1	NA	bar	CO2(g)	0.000316228	NA	bar				
+anoxic condition(0.1M hydrazine)	N2(g)	1	NA	bar	CO2(g)	0.000316228	NA	bar				
+anoxic condition(N2)	N2(g)	1	NA	bar	CO2(g)	0.000316228	NA	bar				
+Ar	Ar(g)	1	NA	bar								
+Ar (O2<1ppm)	Ar(g)	1	NA	bar	O2(g)	0.000001	NA	bar				
+Ar (pO2<5ppm?ApCO2<5ppm)	Ar(g)	1	NA	bar	O2(g)	0.000005	NA	bar	CO2(g)	0.000005	NA	bar
+Ar + 1% CO2	Ar(g)	0.99	NA	bar	CO2(g)	0.01	NA	bar				
+Ar atmosphere	Ar(g)	1	NA	bar								
+Ar(+N2H4H2O)	Ar(g)	1	NA	bar								
+Ar(hydrazine)	Ar(g)	1	NA	bar								
+Ar(N2H4?EH2O solution)	Ar(g)	1	NA	bar								
+Ar(Na2S2O4)	Ar(g)	1	NA	bar								
+Ar(O2<10ppm)	Ar(g)	1	NA	bar	O2(g)	0.00001	NA	bar				
+Ar(O2<10ppm, 1.00e-3M Na2S2O4)	Ar(g)	1	NA	bar	O2(g)	0.00001	NA	bar				
+Ar(O2<1ppm, absence CO2)	Ar(g)	1	NA	bar	O2(g)	0.000001	NA	bar				
+Ar(O2=2ppm)	Ar(g)	1	NA	bar	O2(g)	0.000002	NA	bar				
+Ar/H	Ar(g)	1	NA	bar								
+Ar?iO2<=3ppm?j	Ar(g)	1	NA	bar	O2(g)	0.000003	NA	bar				
+Ar?iO2<=3ppm?j, Hydrazine	Ar(g)	1	NA	bar	O2(g)	0.000003	NA	bar				
+Ar_1%CO2	Ar(g)	0.99	NA	bar	CO2(g)	0.01	NA	bar				
+Ar_atmosphere	Ar(g)	1	NA	bar								
+atm.	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+atm. CO2	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+atmosphere	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+atmospheric condition	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+carbon dioxide free atmosphere	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar				
+closed system	Ar(g)	1	NA	bar								
+CO2	CO2(g)	1	NA	bar								
+CO2/N2(50%/50%)	N2(g)	0.5	NA	bar	CO2(g)	0.5	NA	bar				
+CO2<5ppm	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000005	NA	bar
+CO2-free	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar				
+control(O2<10ppm)	N2(g)	1	NA	bar	O2(g)	0.00001	NA	bar				
+control(O2<10ppm, 1.00e-3M Na2S2O4)	N2(g)	1	NA	bar	O2(g)	0.00001	NA	bar				
+controlled atm.	Ar(g)	1	NA	bar								
+controlled atmosphere	Ar(g)	1	NA	bar								
+deaerated	Ar(g)	1	NA	bar								
+H2/N2	N2(g)	1	NA	bar								
+H2/N2(10/90)	N2(g)	1	NA	bar								
+H2/N2(10/90) gas	N2(g)	1	NA	bar								
+H2/N2(10:90)	N2(g)	1	NA	bar								
+hydrazine	N2(g)	1	NA	bar								
+inert atmosphere	N2(g)	1	NA	bar								
+inert-gas	N2(g)	1	NA	bar								
+low O2	N2(g)	1	NA	bar								
+Low O2	N2(g)	1	NA	bar								
+Low O2 condition	N2(g)	1	NA	bar								
+low O2(O2<1ppm)	N2(g)	1	NA	bar	O2(g)	0.000001	NA	bar				
+Low_O2	N2(g)	1	NA	bar								
+mildly reducing condition(NO2)	N2(g)	1	NA	bar								
+n.r.	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+n.r. (Air?)	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+n.r.(air ?)	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+n.r.(air?)	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+n.r.(ambient condition)	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+n.r.(oxic condition)	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+n.r.(reducing condition)	N2(g)	0.8	NA	bar	CO2(g)	0.000316228	NA	bar				
+n.r.(reducing condition?)	N2(g)	0.8	NA	bar	CO2(g)	0.000316228	NA	bar				
+N2	N2(g)	1	NA	bar								
+N2 (CO2 and O2??2ppm)	N2(g)	1	NA	bar	O2(g)	0.000002	NA	bar	CO2(g)	0.000002	NA	bar
+N2 (CO2, O2<5ppm)	N2(g)	1	NA	bar	O2(g)	0.000005	NA	bar	CO2(g)	0.000005	NA	bar
+N2 (O2??1ppm)	N2(g)	1	NA	bar	O2(g)	0.000001	NA	bar				
+N2 (O2<100ppm)	N2(g)	1	NA	bar	O2(g)	0.0001	NA	bar				
+N2 atmosphere	N2(g)	1	NA	bar								
+N2(+0.01M Na2S2O4)	N2(g)	1	NA	bar								
+N2(<0.1% O2)	N2(g)	1	NA	bar	O2(g)	0.01	NA	bar				
+N2(<1ppm O2)	N2(g)	1	NA	bar	O2(g)	0.000001	NA	bar				
+N2(0.05M Na2S2O4)	N2(g)	1	NA	bar								
+N2(0.08M hydrazine)	N2(g)	1	NA	bar								
+N2(CO2<1ppm, O2<1ppm)	N2(g)	1	NA	bar	O2(g)	0.000001	NA	bar	CO2(g)	0.000001	NA	bar
+N2(CO2<5ppm, O2<5ppm)	N2(g)	1	NA	bar	O2(g)	0.000005	NA	bar	CO2(g)	0.000005	NA	bar
+N2(Na2S2O4)	N2(g)	1	NA	bar								
+N2(O2 and CO2 < 5ppm)	N2(g)	1	NA	bar	O2(g)	0.000005	NA	bar	CO2(g)	0.000005	NA	bar
+N2(O2<0.1ppm)	N2(g)	1	NA	bar	O2(g)	0.0000001	NA	bar				
+N2(O2<10ppm)	N2(g)	1	NA	bar	O2(g)	0.00001	NA	bar				
+N2(O2<1ppm)	N2(g)	1	NA	bar	O2(g)	0.000001	NA	bar				
+N2(O2<1ppm), No adjusted ORP	N2(g)	1	NA	bar	O2(g)	0.000001	NA	bar				
+N2(O2<2ppm, CO2<2ppm)	N2(g)	1	NA	bar	O2(g)	0.000002	NA	bar	CO2(g)	0.000002	NA	bar
+N2(O2<3ppm)	N2(g)	1	NA	bar	O2(g)	0.000003	NA	bar				
+N2(pCO2<1ppm)	N2(g)	1	NA	bar	CO2(g)	0.000001	NA	bar				
+N2(pCO2=1e-2.0)	N2(g)	1	NA	bar	CO2(g)	0.01	NA	bar				
+N2(pCO2=1e-3.5)	N2(g)	1	NA	bar	CO2(g)	0.000316228	NA	bar				
+N2/0.05% CO2	N2(g)	1	NA	bar	CO2(g)	0.0005	NA	bar				
+N2/CO2 mixture	N2(g)	1	NA	bar								
+N2/H2 mixture	N2(g)	1	NA	bar								
+N2_0%CO2	N2(g)	1	NA	bar								
+N2_0.4%CO2	N2(g)	1	NA	bar	CO2(g)	0.004	NA	bar				
+N2_0.4%CO2(?`2ppmO2)	N2(g)	1	NA	bar	O2(g)	0.000002	NA	bar	CO2(g)	0.004	NA	bar
+N2_1%CO2	N2(g)	1	NA	bar	CO2(g)	0.01	NA	bar				
+N2_2.0%CO2	N2(g)	1	NA	bar	CO2(g)	0.02	NA	bar				
+N2+Na2S2O4 (O2??1ppm)	N2(g)	1	NA	bar								
+Na2S2O4	N2(g)	1	NA	bar								
+nitrogen gas(<0.1% O2)	N2(g)	1	NA	bar	O2(g)	0.001	NA	bar				
+no CO2	N2(g)	1	NA	bar								
+no-CO2	N2(g)	1	NA	bar								
+non-oxidizing condition	N2(g)	1	NA	bar								
+non-reducing condition	N2(g)	1	NA	bar								
+no-O2	N2(g)	1	NA	bar								
+Normal	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+normal O2	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+O2	O2(g)	1	NA	bar								
+O2 and CO2 <1ppm	N2(g)	1	NA	bar	O2(g)	0.000001	NA	bar	CO2(g)	0.000001	NA	bar
+O2 and CO2 <2ppm	N2(g)	1	NA	bar	O2(g)	0.000002	NA	bar	CO2(g)	0.000002	NA	bar
+O2 and CO2 <5ppm	N2(g)	1	NA	bar	O2(g)	0.000005	NA	bar	CO2(g)	0.000005	NA	bar
+O2<0.5ppm	N2(g)	1	NA	bar	O2(g)	0.0000005	NA	bar				
+O2<1ppm	N2(g)	1	NA	bar	O2(g)	0.000001	NA	bar				
+O2<1ppm, 0.01M-Na2S2O4	N2(g)	1	NA	bar	O2(g)	0.000001	NA	bar				
+oxic	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+Oxic condition	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+oxic condition	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+oxid	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+Oxidizing	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+oxidizing	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+oxidizing condition	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+oxidizing condition(air)	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+oxidizing condition(O2)	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+PCO2<1ppm	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000001	NA	bar
+pCO2=10^-2.0atm	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.01	NA	bar
+reducing	N2(g)	0.8	NA	bar								
+reducing condition	N2(g)	0.8	NA	bar								
+reducing condition (Na2S2O4)	N2(g)	0.8	NA	bar								
+reducing condition(0.05M hydrazine;Ar)	Ar(g)	1	NA	bar								
+reducing condition(0.05M hydrazine;N2)	N2(g)	1	NA	bar								
+reducing condition(0.1M hydrazine)	N2(g)	1	NA	bar								
+reducing condition(Fe(II))	N2(g)	1	NA	bar								
+reducing condition(N2)	N2(g)	1	NA	bar								
+reducing(Na2S2O4)	N2(g)	1	NA	bar								
+reductive	N2(g)	1	NA	bar								
+reductive(3% H2)	N2(g)	1	NA	bar								
+reducung(Ar)	Ar(g)	1	NA	bar								
+removed CO2 gas	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar				
+seasonally oxic/anoxic condition	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+slightly oxidized environment	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar	CO2(g)	0.000316228	NA	bar
+super Ar	Ar(g)	1	NA	bar								
+trace CO2	N2(g)	0.8	NA	bar	O2(g)	0.2	NA	bar				
